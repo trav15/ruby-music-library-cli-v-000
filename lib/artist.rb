@@ -26,9 +26,9 @@ class Artist
     song
   end
   
-  def add_song(title)
+  def add_song(song)
     song.artist = self 
-    songs << title
+    songs << song
   end
   
 end
