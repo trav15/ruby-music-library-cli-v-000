@@ -19,4 +19,8 @@ class Song
     @@all.clear
   end
   
+  def create
+    self.
+  end
+  
 end
